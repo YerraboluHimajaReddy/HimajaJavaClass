@@ -8,6 +8,8 @@ public class SampleProgram {
 		// TODO Auto-generated method stub
 
 		System.out.println(" Welcome Himaja Reddy");
+		
+		System.out.println(" Welcom eHImaja reddy Yerrabolu" );
 	}
 
 }
